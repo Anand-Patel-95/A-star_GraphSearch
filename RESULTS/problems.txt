@@ -1,0 +1,41 @@
+
+Problem 1:
+node file: nodes_1.txt
+edge file: edges_1.txt
+start node ID: 1
+goal node ID: 25
+
+
+
+Problem 2:
+node file: nodes_2.txt
+edge file: edges_2.txt
+start node ID: 4
+goal node ID: 87
+
+
+
+Problem 3:
+node file: nodes_3.txt
+edge file: edges_3.txt
+start node ID: 21
+goal node ID: 2
+
+
+Problem 4:
+node file: nodes_4.txt
+edge file: edges_4.txt
+start node ID: 40
+goal node ID: 1
+
+
+Problem 5:
+node file: nodes_5.txt
+edge file: edges_5.txt
+start node ID: 7
+goal node ID: 18
+
+
+
+
+
